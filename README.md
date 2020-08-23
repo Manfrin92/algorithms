@@ -1,4 +1,4 @@
 # Algorithms
 
-#### Repository for trainning and implementing some simple algorithms.
+#### Repository for training and implementing some simple algorithms.
 
